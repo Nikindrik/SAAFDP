@@ -1,0 +1,42 @@
+﻿  main.cpp
+  Medical_list.cpp
+C:\Users\Никита\source\repos\main\Medical_list.cpp(13,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Никита\source\repos\main\Medical_list.cpp(13,28): error C2556: int List::delete_node(int): перегруженная функция отличается от "void List::delete_node(int)" только возвращаемым типом
+C:\Users\Никита\source\repos\main\Medical_list.h(21): message : см. объявление "List::delete_node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(13,7): error C2371: List::delete_node: переопределение; различные базовые типы
+C:\Users\Никита\source\repos\main\Medical_list.h(21): message : см. объявление "List::delete_node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(17,34): error C2039: "data": не является членом "Disease".
+C:\Users\Никита\source\repos\main\Medical_list.h(6): message : см. объявление "Disease"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(22,37): error C2039: "data": не является членом "Disease".
+C:\Users\Никита\source\repos\main\Medical_list.h(6): message : см. объявление "Disease"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(56,14): error C2039: "year": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(56,21): error C2065: year: необъявленный идентификатор
+C:\Users\Никита\source\repos\main\Medical_list.cpp(57,14): error C2039: "price": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(57,22): error C2065: price: необъявленный идентификатор
+C:\Users\Никита\source\repos\main\Medical_list.cpp(58,14): error C2039: "saleDate": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(94,121): error C2039: "country": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(94,157): error C2039: "year": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(103,44): error C2039: "brand": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(103,84): error C2039: "country": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(103,120): error C2039: "year": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(103,155): error C2039: "price": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(112,22): error C2039: "brand": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(132,43): error C2039: "brand": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(132,59): error C2039: "brand": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(143,61): error C2039: "brand": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+C:\Users\Никита\source\repos\main\Medical_list.cpp(143,78): error C2039: "brand": не является членом "Medical_card_Node".
+C:\Users\Никита\source\repos\main\Medical_list.h(27): message : см. объявление "Medical_card_Node"
+  Создание кода...
